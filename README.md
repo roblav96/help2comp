@@ -1,2 +1,2 @@
-# gencomp
-Zsh completion generator from manpage or --help
+# help2comp
+Zsh completion generator from `--help` or `man` pages.
